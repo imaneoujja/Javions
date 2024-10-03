@@ -1,3 +1,5 @@
+Javions is a Java application developed in the scope of the CS108 course at EPFL : https://cs108.epfl.ch/archive/23/archive.html
+
 # Javions
 
 ## Project Overview
@@ -14,3 +16,6 @@ The application utilizes the **AirSpy R2** Software-Defined Radio (SDR) to captu
 - **Data Visualization**: Displays aircraft positions on a map, providing essential flight data.
 
 Javions aims to enhance the monitoring and management of air traffic, offering insights into the dynamic nature of aviation logistics.
+
+
+
