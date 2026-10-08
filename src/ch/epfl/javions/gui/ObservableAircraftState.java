@@ -11,8 +11,6 @@ import static javafx.collections.FXCollections.observableArrayList;
 import static javafx.collections.FXCollections.unmodifiableObservableList;
 
 /**
- *  @author Salma El Yadouni (340859)
-
  * This class represents the state of an aircraft with various properties that can be observed and modified
  * The implemntation of the interface AircraftStateSetter will give us the possibility to sett different properties of
  * aircraft state

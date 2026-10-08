@@ -10,8 +10,8 @@ import static java.nio.charset.StandardCharsets.UTF_8;
 /**
  * La classe AircraftDatabase publique et finale représente la base de données mictronics des aéronefs.
  *
- * @author Marwa Chiguer (325221)
- * @author Imane Oujja (344332)
+ * @author Marwa Chiguer
+ * @author Imane Oujja
  */
 
 public final class AircraftDatabase {

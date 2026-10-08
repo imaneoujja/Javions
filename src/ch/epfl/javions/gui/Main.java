@@ -36,8 +36,8 @@ import static javafx.beans.binding.Bindings.createObjectBinding;
 /**
  * La classe publique et finale contient le programme principal, elle représente une application JavaFX.
  *
- * @author Marwa Chiguer (325221)
- * @author Imane Oujja (344332)
+ * @author Marwa Chiguer
+ * @author Imane Oujja
  */
 
 public final class Main extends Application {
@@ -112,7 +112,6 @@ public final class Main extends Application {
 
         lineController.aircraftCountProperty().bind(createObjectBinding(() -> aircraftStateManager.states().size(),
                 aircraftStateManager.states()));
-        //aircraftTable.setOnDoubleClick(position -> baseMapController.centerOn(position.getPosition()));
 
         //fil chargé d'obtenir les messages provenant des aéronefs.
         Thread messageThread;

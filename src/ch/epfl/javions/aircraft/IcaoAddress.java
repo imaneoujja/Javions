@@ -8,8 +8,8 @@ import java.util.regex.Pattern;
 /**
  * Cet enregistrement public représente une adresse OACI
  *
- * @author Marwa Chiguer (325221)
- * @author Imane Oujja (344332)
+ * @author Marwa Chiguer
+ * @author Imane Oujja
  */
 
 public record IcaoAddress(String string) {

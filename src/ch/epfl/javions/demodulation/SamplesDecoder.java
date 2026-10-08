@@ -9,8 +9,8 @@ import java.util.Objects;
 /**
  * Cette classe publique et finale représente un décodeur d'échantillons
  *
- * @author Marwa Chiguer (325221)
- * @author Imane Oujja (344332)
+ * @author Marwa Chiguer
+ * @author Imane Oujja
  */
 
 public final class SamplesDecoder {
@@ -35,7 +35,6 @@ public final class SamplesDecoder {
      */
     public SamplesDecoder(InputStream stream, int batchSize) {
         Preconditions.checkArgument(batchSize > 0);
-        //Objects.requireNonNull(stream);
         this.stream = stream;
         this.batchSize = batchSize;
         tableauOctets = new byte[batchSize * 2];

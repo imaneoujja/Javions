@@ -6,8 +6,8 @@ import ch.epfl.javions.GeoPos;
  * L'interface AircraftStateSetter publique, a pour but d'être implémentée par toutes les classes représentant
  * l'état modifiable d'un aéronef.
  *
- * @author Marwa Chiguer (325221)
- * @author Imane Oujja (344332)
+ * @author Marwa Chiguer
+ * @author Imane Oujja
  */
 public interface AircraftStateSetter {
 

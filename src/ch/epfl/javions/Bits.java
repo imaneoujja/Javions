@@ -7,8 +7,8 @@ import java.util.Objects;
  * Le type Bits public et non instanciable,
  * contient des méthodes permettant d'extraire un sous-ensemble des 64 bits d'une valeur de type long
  *
- * @author Marwa Chiguer (325221)
- * @author Imane Oujja (344332)
+ * @author Marwa Chiguer
+ * @author Imane Oujja
  */
 public final class Bits {
 

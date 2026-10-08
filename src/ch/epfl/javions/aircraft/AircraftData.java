@@ -10,8 +10,8 @@ import java.util.Objects;
  * @param model                  model de l'aéronef
  * @param description            description de l'aéronef
  * @param wakeTurbulenceCategory wakeTurbulenceCategory de l'aéronef
- * @author Marwa Chiguer (325221)
- * @author Imane Oujja (344332)
+ * @author Marwa Chiguer
+ * @author Imane Oujja
  * @throws NullPointerException si l'un de ses arguments est nul
  */
 public record AircraftData(AircraftRegistration registration, AircraftTypeDesignator typeDesignator, String model,

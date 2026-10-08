@@ -13,8 +13,8 @@ import java.util.HexFormat;
  *
  * @param timeStampNs l'horodatage du message, exprimé en nanosecondes.
  * @param bytes       les octets du message.
- * @author Marwa Chiguer (325221)
- * @author Imane Oujja (344332)
+ * @author Marwa Chiguer
+ * @author Imane Oujja
  */
 
 public record RawMessage(long timeStampNs, ByteString bytes) {

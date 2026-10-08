@@ -3,8 +3,8 @@ package ch.epfl.javions.aircraft;
 /**
  * Le type énuméré WakeTurbulenceCategory représente la catégorie de turbulence de sillage d'un aéronef
  *
- * @author Marwa Chiguer (325221)
- * @author Imane Oujja (344332)
+ * @author Marwa Chiguer
+ * @author Imane Oujja
  */
 public enum WakeTurbulenceCategory {
 

@@ -14,8 +14,8 @@ import java.util.function.Consumer;
 
 /**
  * La classe AircraftTableController gère la table des aéronefs.
- * @author Marwa Chiguer (325221)
- * @author Imane Oujja (344332)
+ * @author Marwa Chiguer
+ * @author Imane Oujja
  */
 
 public final class AircraftTableController {

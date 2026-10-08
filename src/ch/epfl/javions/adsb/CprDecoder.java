@@ -7,8 +7,8 @@ import static ch.epfl.javions.Units.convert;
 
 /**
  * La classe représentant le Décodeur Cpr
- * @author Marwa Chiguer (325221)
- * @author Imane Oujja (344332)
+ * @author Marwa Chiguer
+ * @author Imane Oujja
  */
 public  class CprDecoder{
 

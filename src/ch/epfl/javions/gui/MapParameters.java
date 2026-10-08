@@ -7,8 +7,8 @@ import javafx.beans.property.*;
 
 /**
  * La classe public et finale MapParameters représente les paramètres de la portion de la carte visible dans l'interface graphique
- * @author Marwa Chiguer (325221)
- * @author Imane Oujja (344332)
+ * @author Marwa Chiguer
+ * @author Imane Oujja
  */
 public final class MapParameters {
 

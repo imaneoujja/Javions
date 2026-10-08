@@ -8,8 +8,8 @@ import java.util.regex.Pattern;
 /**
  * L'enregistrement public AircraftRegistration représente l'immatriculation de l'aéronef
  *
- * @author Marwa Chiguer (325221)
- * @author Imane Oujja (344332)
+ * @author Marwa Chiguer
+ * @author Imane Oujja
  */
 public record AircraftRegistration(String string) {
     private static final Pattern expReg1 = Pattern.compile("[A-Z0-9 .?/_+-]+");

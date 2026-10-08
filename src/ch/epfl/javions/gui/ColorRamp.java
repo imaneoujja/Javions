@@ -8,8 +8,8 @@ import java.util.List;
 
 /**
  * La classe ColorRamp du sous-paquetage gui, publique, finale et immuable, représente un dégradé de couleurs.
- * @author Marwa Chiguer (325221)
- * @author Imane Oujja (344332)
+ * @author Marwa Chiguer
+ * @author Imane Oujja
  */
 public final class ColorRamp{
     public static final int LIMIT_COLOR = 31;

@@ -17,8 +17,8 @@ import static java.lang.Math.hypot;
  * @param icaoAddress    l'adresse OACI de l'expéditeur du message.
  * @param speed          la vitesse de l'aéronef, en m/s.
  * @param trackOrHeading la direction de déplacement de l'aéronef, en radians.
- * @author Marwa Chiguer (325221)
- * @author Imane Oujja (344332)
+ * @author Marwa Chiguer
+ * @author Imane Oujja
  * L'enregistrement AirborneVelocityMessage public, représente un message de vitesse en vol.
  * Il implémente l'interface Message et ses attributs sont :
  */

@@ -10,8 +10,8 @@ import static ch.epfl.javions.Bits.extractUInt;
 
 /**
  * Enregistrement Messages d'identification implémentant l'interface Message
- * @author Marwa Chiguer (325221)
- * @author Imane Oujja (344332)
+ * @author Marwa Chiguer
+ * @author Imane Oujja
  * @param timeStampNs l'horodatage du message, en nanosecondes
  * @param icaoAddress l'adresse OACI de l'expéditeur du message
  * @param category la catégorie d'aéronef de l'expéditeur

@@ -6,8 +6,8 @@ import javafx.scene.text.Text;
 
 /**
  * La classe StatusLineController du sous-paquetage gui, publique et finale, gère la ligne d'état.
- * @author Marwa Chiguer (325221)
- * @author Imane Oujja (344332)
+ * @author Marwa Chiguer
+ * @author Imane Oujja
  */
 
 public final class StatusLineController {

@@ -3,8 +3,8 @@ package ch.epfl.javions;
 /**
  * Le type Units contient la définition des préfixes SI utiles au projet et des methodes de conversion
  *
- * @author Marwa Chiguer (325221)
- * @author Imane Oujja (344332)
+ * @author Marwa Chiguer
+ * @author Imane Oujja
  */
 
 public final class Units {

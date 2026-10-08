@@ -13,8 +13,8 @@ import static ch.epfl.javions.Units.Length.METER;
 
 /**
  * Enregistrement Messages de positionnement implémentant l'interface Message
- * @author Marwa Chiguer (325221)
- * @author Imane Oujja (344332)
+ * @author Marwa Chiguer
+ * @author Imane Oujja
  */
 public record AirbornePositionMessage (long timeStampNs, IcaoAddress icaoAddress, double altitude, int parity, double x, double y) implements Message {
 

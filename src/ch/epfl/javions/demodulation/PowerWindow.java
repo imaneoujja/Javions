@@ -9,8 +9,8 @@ import java.io.InputStream;
  * La classe PowerWindow publique et finale représente une fenêtre de taille fixe sur une séquence d'échantillons
  * de puissance produits par un calculateur de puissance.
  *
- * @author Marwa Chiguer (325221)
- * @author Imane Oujja (344332)
+ * @author Marwa Chiguer
+ * @author Imane Oujja
  */
 public final class PowerWindow {
     private int[] tab1;

@@ -3,8 +3,8 @@ package ch.epfl.javions;
 /**
  * La classe Crc24 est publique et finale représente un calculateur de CRC de 24 bits.
  *
- * @author Marwa Chiguer (325221)
- * @author Imane Oujja (344332)
+ * @author Marwa Chiguer
+ * @author Imane Oujja
  */
 
 public final class Crc24 {

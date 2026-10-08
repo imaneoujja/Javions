@@ -9,8 +9,8 @@ import static ch.epfl.javions.Units.Angle.*;
  *
  * @param longitudeT32 la longitude exprimée en t32 et stockée sous la forme d'entiers de 32 bits (type int)
  * @param latitudeT32  la latitude exprimée en t32 et stockée sous la forme d'entiers de 32 bits (type int)
- * @author Marwa Chiguer (325221)
- * @author Imane Oujja (344332)
+ * @author Marwa Chiguer
+ * @author Imane Oujja
  */
 
 public record GeoPos(int longitudeT32, int latitudeT32) {

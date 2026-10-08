@@ -7,8 +7,8 @@ import java.util.regex.Pattern;
 /**
  * L'enregistrement CallSign représente ce que l'on appelle l'indicatif de l'aéronef
  *
- * @author Marwa Chiguer (325221)
- * @author Imane Oujja (344332)
+ * @author Marwa Chiguer
+ * @author Imane Oujja
  */
 public record CallSign(String string) {
     private static final Pattern string_ = Pattern.compile("[A-Z0-9 ]{0,8}");

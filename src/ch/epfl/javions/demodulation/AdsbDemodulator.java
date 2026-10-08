@@ -8,8 +8,8 @@ import java.io.InputStream;
 /**
  * La classe AdsbDemodulator publique et finale représente un démodulateur de messaes ADSB.
  *
- * @author Marwa Chiguer (325221)
- * @author Imane Oujja (344332)
+ * @author Marwa Chiguer
+ * @author Imane Oujja
  */
 public final class AdsbDemodulator {
 

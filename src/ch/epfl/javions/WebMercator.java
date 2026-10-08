@@ -8,8 +8,8 @@ import static ch.epfl.javions.Units.convertTo;
 /**
  * La classe WebMercator contient des méthodes permettant de projeter des coordonnées géographiques selon la projection WebMercator
  *
- * @author Marwa Chiguer (325221)
- * @author Imane Oujja (344332)
+ * @author Marwa Chiguer
+ * @author Imane Oujja
  */
 
 public final class WebMercator {

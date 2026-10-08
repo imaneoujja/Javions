@@ -4,8 +4,8 @@ package ch.epfl.javions.adsb;
  * La classe MessageParser, publique et non instantiable, a pour but de transformer les messages ADS-B bruts en
  * messages d'un des trois types décrits précédemment identification, position en vol, vitesse en vol.
  *
- * @author Marwa Chiguer (325221)
- * @author Imane Oujja (344332)
+ * @author Marwa Chiguer
+ * @author Imane Oujja
  */
 public class MessageParser {
 

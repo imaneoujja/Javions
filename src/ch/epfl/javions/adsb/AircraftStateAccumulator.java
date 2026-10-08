@@ -11,8 +11,8 @@ import java.util.Objects;
  * La classe AircraftStateAccumulator public représente un accumulateur d'état d'aéronef, un objet accumulant les messages ADS-B provenant d'un seul aéronef afin de déterminer son état au cours du temps.
  *
  * @param <T> paramètre de type de cette classe générique
- * @author Marwa Chiguer (325221)
- * @author Imane Oujja (344332)
+ * @author Marwa Chiguer
+ * @author Imane Oujja
  */
 
 public class AircraftStateAccumulator<T extends AircraftStateSetter> {
